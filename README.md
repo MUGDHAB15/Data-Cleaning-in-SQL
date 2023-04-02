@@ -1,7 +1,7 @@
 # Data-Cleaning-in-SQL
 Cleaning NashvilleHousing data in SQL
 
-In this project I have used and excel data, imported it to SQL and cleaned it , so that it can be more useful.
+In this project I have used an excelfile data, imported it to SQL and cleaned it , so that it can be more useful.
 
 Skills used: 
 
